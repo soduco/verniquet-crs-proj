@@ -31,14 +31,14 @@ L'unité attendue des coordonnées dans le SCR Verniquet est la **toise du Chât
 3. Il n'est adapté à des usages tenant nécessitant de prendre en compte l'altitude.
 
 
-# Références
+# 📚 Références
 > Pronteau, J. (1986). Edmé Verniquet (1727-1804): architecte et auteur du" grand plan de Paris"(1785-1791). Commission des travaux historiques, Sous-commission de recherches d'histoire municipale contemporaine.
 
 > « Atlas des opérations trigonométriques pour la Ville de Paris par Edme Verniquet, mathématicien. ». Archives Nationales, [MC/ET/LVIII/648/A](https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?irId=FRAN_IR_054362&udId=c-9jd6kmfjf-z7pptc8ktikb&details=true&gotoArchivesNums=false&auSeinIR=true). Date inconnue, probablement avant 1791.
 
 
-# Remerciements
+# 🙏 Remerciements
 Nous remercions chaleureusement l'[observatoire de Paris](https://www.observatoiredeparis.psl.eu/) pour avoir autorisé la réalisation des relevés topographiques ayant permis de mesurer la position du point d'origine du repère du système de coordonnées du plan.
 
-# Citer ce travail
+# 💬 Citer ce travail
 > TODO
