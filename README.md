@@ -10,7 +10,7 @@ Deux formats de définition sont disponibles:
 
 L'atlas de Verniquet et sa triangulation font l'objet d'une étude critique en cours. Les premières analyses ont été présentées au séminaire SoDUCo-BnF le 11 avril 2022.
 
- [![](https://img.shields.io/badge/HAL-Presentation-red)](...) [![](https://img.shields.io/badge/PDF-Presentation-blue)](./supplementary/SODUCO_seminar_2-2022_04_02.pdf)
+ [![](https://img.shields.io/badge/HAL-Presentation-red)](https://hal.science/hal-04401366) [![](https://img.shields.io/badge/PDF-Presentation-blue)](./supplementary/SODUCO_seminar_2-2022_04_02.pdf)
 
 ## 🌐 Description 
 
@@ -38,7 +38,7 @@ L'unité attendue des coordonnées dans le SCR Verniquet est la **toise du Chât
 
 
 # 🙏 Remerciements
-Nous remercions chaleureusement l'[observatoire de Paris](https://www.observatoiredeparis.psl.eu/) pour avoir autorisé la réalisation des relevés topographiques ayant permis de mesurer la position du point d'origine du repère du système de coordonnées du plan.
+Nous remercions chaleureusement l'[observatoire de Paris](https://www.observatoiredeparis.psl.eu/) pour nous avoir permi de relever la position du point d'origine du repère du système de coordonnées du plan de Verniquet.
 
 # 💬 Citer ce travail
-> TODO
+> Bertrand Duménieu, Nathalie Abadie, Yann Ménéroux, Julien Chadeyron, Stéphane Baciocchi, et al.. Le système référence de coordonnées de Paris, levé géométriquement par le citoyen Verniquet. Séminaire SoDuCo-BNF: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 – 1950, Projet SoDuCo; Bibliothèque Nationale de France, Apr 2022, Paris, France. ⟨hal-04401366⟩
